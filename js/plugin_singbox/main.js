@@ -20,7 +20,7 @@ export function nekoInit(b64Str) {
         protocolId: "ShadowTLS",
         haveStandardLink: false,
         canShare: false,
-        canMux: true,
+        canMux: false,
         canMapping: true,
         canTCPing: true,
         canICMPing: true,
